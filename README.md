@@ -37,3 +37,6 @@ Runs on http://localhost:5000
 -Quantity can be adjusted before checkout.
 -Minimal backend logic: orders are logged to the console.
 -Responsive design for mobile, tablet, and desktop.
+
+5. Loom Video Link
+   https://www.loom.com/share/f2ec49d79e9f48d3a59bda6ab5cce78a
